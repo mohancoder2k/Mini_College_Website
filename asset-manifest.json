@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mini_College_Website/static/css/main.fca5d377.css",
+    "main.js": "/Mini_College_Website/static/js/main.bfce6a2f.js",
+    "static/js/787.31aa5bf0.chunk.js": "/Mini_College_Website/static/js/787.31aa5bf0.chunk.js",
+    "index.html": "/Mini_College_Website/index.html",
+    "main.fca5d377.css.map": "/Mini_College_Website/static/css/main.fca5d377.css.map",
+    "main.bfce6a2f.js.map": "/Mini_College_Website/static/js/main.bfce6a2f.js.map",
+    "787.31aa5bf0.chunk.js.map": "/Mini_College_Website/static/js/787.31aa5bf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca5d377.css",
+    "static/js/main.bfce6a2f.js"
+  ]
+}
